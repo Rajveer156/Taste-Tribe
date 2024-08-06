@@ -1,0 +1,549 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality1.png",
+          "title": "QUALITY FOOD",
+          "description": "Cuizines crafted with the finest ingredients and meticulous attention to detail by out finest chef's."
+        },
+        {
+          "id": 2,
+          "image": "./quality2.png",
+          "title": "SUPER TASTE",
+          "description": "flavors that delight your palate and leave you craving for more."
+        },
+        {
+          "id": 3,
+          "image": "./quality3.png",
+          "title": "Book Reading",
+          "description": "Enjoy vast variety of book available and enhance your experience here"
+        },
+        {
+          "id": 4,
+          "image": "./quality4.png",
+          "title": "Open-Mic Sessions",
+          "description": "A perfect platform to share your incredible thoughts and ideas with the community"
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner1.png",
+          "title": "Spicy Harvest"
+        },
+        {
+          "id": 2,
+          "image": "./pizza1.png",
+          "title": "Farmhouse"
+        },
+        {
+          "id": 3,
+          "image": "./shake2.png",
+          "title": "Cocoa Dreams"
+        },
+        {
+          "id": 4,
+          "image": "./starter4.png",
+          "title": "Little Pasta"
+        }
+      ],
+      "books": [
+        {
+          "id": 1,
+          "image": "./book1.png"
+        },
+        {
+          "id": 2,
+          "image": "./book2.png"
+        },
+        {
+          "id": 3,
+          "image": "./book3.png"
+        },
+        {
+          "id": 4,
+          "image": "./book4.png"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_2.png",
+          "name": "Rajvirsinh Rajput",
+          "designation": "Founder & Head Chef"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.png",
+          "name": "Mohammad Rupani",
+          "designation": "Senior Chef"
+        },
+        {
+          "id": 3,
+          "image": "./team_member_2.png",
+          "name": "Tosik Parmar",
+          "designation": "Senior Chef"
+        },
+        {
+          "id": 4,
+          "image": "./team_member_2.png",
+          "name": "Garv Kavadia",
+          "designation": "Senior Chef"
+        },
+        {
+          "id": 5,
+          "image": "./team_member_2.png",
+          "name": "Ayush Sarraf",
+          "designation": "Senior Chef"
+        },
+        {
+          "id": 6,
+          "image": "./team_member_2.png",
+          "name": "Dhruv Patel",
+          "designation": "Senior Chef"
+        }
+      ],
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "1",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "6",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 4,
+          "number": "50",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "POPULAR DISHES/BOOKS",
+          "link": "p_dish"
+        },
+        {
+          "id": 5,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 6,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ],
+  "menu":[
+    {
+      "navbarmenu":[
+        {
+          "id":"chapter_1",
+          "Title":"Chapter 1",
+          "Link":"starter"
+        },
+        {
+          "id":"chapter_2",
+          "Title":"Chapter 2",
+          "Link":"shake"
+        },
+        {
+          "id":"chapter_3",
+          "Title":"Chapter 3",
+          "Link":"pizza"
+        },
+        {
+          "id":"chapter_4",
+          "Title":"Chapter 4",
+          "Link":"sabji"
+        },
+        {
+          "id":"chapter_5",
+          "Title":"Chapter 5",
+          "Link":"sabji_s"
+        },
+        {
+          "id":"chapter_6",
+          "Title":"Chapter 6",
+          "Link":"roti"
+        },
+        {
+          "id":"chapter_7",
+          "Title":"Chapter 7",
+          "Link":"rice"
+        },
+        {
+          "id":"chapter_8",
+          "Title":"Chapter 8",
+          "Link":"dessert"
+        }
+      ],
+      "piz":[
+        {
+          "id": 1,
+          "image": "./pizza3.png",
+          "title": "The Epic Slice",
+          "text" : "Simple yet classic combination of fresh tomatoes, creamy mozzarella, and aromatic basil on a perfectly baked crust."
+        },
+        {
+          "id": 2,
+          "image": "./pizza2.png",
+          "title": "Hobbiten",
+          "text" : "Loaded with a colorful assortment of fresh vegetables, including bell peppers, mushrooms, onions, olives, and tomatoes, all atop a gooey mozzarella base with tangy tomato sauce"
+        },
+        {
+          "id": 3,
+          "image": "./pizza1.png",
+          "title": "Farmhouse",
+          "text" : "The rustic charm of our Farmhouse Pizza, bursting with multipal fresh ingridians Taking you to an adventure of Farm.,"
+        },
+        {
+          "id": 4,
+          "image": "./pizza4.png",
+          "title": "Secret Garden",
+          "text" : "Generous layer of spicy, crispy pepperoni slices over a bed of melted mozzarella cheese and tangy tomato sauce"
+        },
+        {
+          "id": 5,
+          "image": "./pizza5.png",
+          "title": "Catch-8",
+          "text" : "A perfectly baked crust, rich tomato sauce, and a generous layer of melted cheese. Cut into 8 hearty slices, each piece topped with a delicious blend of fresh ingredients and toppings of your choice."
+        },
+        {
+          "id": 6,
+          "image": "./pizza8.png",
+          "title": "Volcano Rush",
+          "text" : "Experience the eruption of flavor with Volcano Rush Pizza  a fiery feast that ignites your taste buds"
+        },
+        {
+          "id": 7,
+          "image": "./pizza7.png",
+          "title": "Treasure Hunt",
+          "text" : "A flavorful combination of caramelized onions, red onions, and green onions atop a layer of gooey mozzarella cheese and tangy tomato sauce"
+        },
+        {
+          "id": 8,
+          "image": "./pizza6.png",
+          "title": "Green Gables",
+          "text" : "A spicy kick with slices of fresh green chilies scattered over a bed of melted mozzarella cheese and zesty tomato sauce"
+        }
+      ],
+      "sk":[
+        {
+          "id": 1,
+          "image": "./shake1.png",
+          "title": "The Sunshine Sip",
+          "book":"A Sip of Sunshine",
+          "text" : "Blended with ripe and juicy mangoes with creamy milk and a touch of sweetness, creating a refreshing and indulgent drink that's perfect for cooling down and satisfying your taste buds"
+        },{
+          "id": 2,
+          "image": "./shake2.png",
+          "title": "Cocoa Dreams",
+          "book":"Dreams from My Father",
+          "text" : "Chilled, creamy blend of rich cocoa and smooth milk, served over ice. It’s a decadent, refreshing treat that combines the deep flavors of chocolate with a cool, satisfying finish"
+        },{
+          "id": 3,
+          "image": "./shake3.png",
+          "title": "Citrus Serenade",
+          "book":"Cider with Rosie",
+          "text" : "Made from freshly squeezed and ripe juicy oranges, delivering a vibrant, tangy flavor with a boost of natural sweetness. It’s a refreshing and invigorating drink, packed with vitamin C"
+        },{
+          "id": 4,
+          "image": "./shake4.png",
+          "title": "The Frozen Delight",
+          "book":"Frozen",
+          "text" : "Combines creamy vanilla ice cream with crushed Oreo cookies, blending into a rich, indulgent treat. Topped with whipped cream and extra cookie crumbles"
+        },
+        {
+          "id": 5,
+          "image": "./shake5.png",
+          "title": "Banana Bliss",
+          "book":"The Bliss of Solitude",
+          "text" : "Ripe bananas blended with creamy milk and a touch of honey, creating a smooth, naturally sweet, and refreshing drink. Perfect for a quick treat or a nourishing snack"
+        },
+        {
+          "id": 6,
+          "image": "./shake6.png",
+          "title": "Berry Tales",
+          "book":"Fairy Tales",
+          "text" : "Ripe strawberries with creamy vanilla ice cream, creating a smooth, fruity, and indulgent treat. Topped with whipped cream and a hint of strawberry drizzle, it’s a delightful and refreshing beverage"
+        },
+        {
+          "id": 7,
+          "image": "./shake7.png",
+          "title": "The Minted Manuscrip",
+          "book":"The Minted Manuscript",
+          "text" : "A refreshing cocktail combining muddled mint leaves, zesty lime juice, and a splash of soda water, with a hint of sweetness. It's a cool and invigorating drink, perfect for any occasion"
+        }
+      ],
+      "sj":[
+        {
+          "id": 1,
+          "image": "./paneer3.png",
+          "title": "The Enigma",
+          "books":"The Enigma of Arrival",
+          "text" : "Tender cubes of paneer simmered in a velvety tomato-based sauce with butter, cream, and a blend of aromatic spices. It's a comforting and indulgent dish, perfect with naan or rice"
+        },
+        {
+          "id": 2,
+          "image": "./paneer2.png",
+          "title": "Tikka Tempest",
+          "books":"The Tempest",
+          "text" : "Succulent chunks of marinated paneer grilled to perfection. Spiced with a blend of aromatic herbs and spices, it’s served with a side of tangy mint chutney for a flavorful, smoky delight."
+        },
+        {
+          "id": 3,
+          "image": "./paneer5.png",
+          "title": "The Sizzling Pan",
+          "books":"The Sizzling",
+          "text" : "Smoky, charred cubes of paneer cooked in a spicy, tangy tomato-based gravy. Infused with bold flavors and aromatic spices, this dish offers a fiery kick and a rich, satisfying taste"
+        },
+        {
+          "id": 4,
+          "image": "./paneer4.png",
+          "title": "The Green Odyssey",
+          "books":"The Odyssey",
+          "text" : "Combining soft cubes of paneer with a vibrant, spiced spinach gravy. The creamy, flavorful sauce, enriched with a blend of Indian spices, complements the tender paneer for a satisfying and nutritious dish."
+        }
+      ],
+      "dt":[
+        {
+          "id": 1,
+          "image": "./desert2.png",
+          "title": "The Sugared Edge",
+          "book":"The Sweet Edge",
+          "text" : "layers of moist chocolate sponge cake, generously filled with a rich, velvety ganache made from premium dark chocolate. Topped with a glossy ganache glaze and adorned with chocolate shavings"
+        },
+        {
+          "id": 2,
+          "image": "./desert3.png",
+          "title": "The Sweet Victory",
+          "book":"The Sweetness at the Bottom of the Pie",
+          "text" : "light and fluffy vanilla sponge, infused with real vanilla beans for a rich. Finished with a smooth, creamy vanilla buttercream and elegantly decorated with fresh berries."
+        },
+        {
+          "id": 3,
+          "image": "./desert4.png",
+          "title": "The Frozen Delight",
+          "book":"Frozen",
+          "text" : "Bowl of Chocolate Ice Cream features rich, creamy chocolate ice cream made with premium cocoa. Each scoop offers a velvety texture and intense chocolate flavor, making it a perfect treat for chocolate lovers"
+        },
+        {
+          "id": 4,
+          "image": "./desert5.png",
+          "title": "Molten Dream",
+          "book":"Dreams of My Father",
+          "text" : "Rich brownie served warm, topped with a scoop of creamy vanilla ice cream. The combination of the warm, gooey brownie with the cool, smooth ice cream creates a delightful contrast"
+        },
+        {
+          "id": 5,
+          "image": "./desert6.png",
+          "title": "The Sweet Serenade",
+          "book":"Serenade",
+          "text" : "Made from deep-fried dough balls soaked in a fragrant, warm sugar syrup infused with cardamom and rosewater. These sweet, syrup-soaked treats are soft and spongy, offering a delightful melt-in-your-mouth experience"
+        },
+        {
+          "id": 6,
+          "image": "./desert7.jpeg",
+          "title": "The Chocolate Chronicles",
+          "book":"The Chronicles of Narnia",
+          "text" : "Generous scoop of your choice of ice cream, layered with chocolate or caramel sauce and a sprinkle of nuts. Topped with whipped cream and a cherry, it’s a luxurious dessert that blends rich flavors and textures in every bite."
+        }
+      ],
+      "rc":[
+        {
+          "id": 1,
+          "image": "./rice1.png",
+          "title": "The Mixed Blessing",
+          "book":"Mixed Blessings",
+          "text" : "Cooked with a medley of fresh vegetables, aromatic spices, and herbs. Each grain of basmati rice is infused with the essence of cumin, cloves, and cardamom, creating a light and delicious mea"
+        },
+        {
+          "id": 2,
+          "image": "./rice2.png",
+          "title": "The Savory Feast",
+          "book":"The Secret Feast",
+          "text" : "Tender pieces of vegetables, and a blend of fragrant spices such as saffron, cardamom, and cloves. Cooked to perfection and often garnished with caramelized onions and fresh herbs."
+        },
+        {
+          "id": 3,
+          "image": "./rice3.png",
+          "title": "The Simple Grain",
+          "book":"",
+          "text" : ""
+        },
+        {
+          "id": 4,
+          "image": "./rice4.png",
+          "title": "The Golden Age",
+          "book":"The Golden Age",
+          "text" : "Fluffy basmati rice infused with fresh lemon juice, aromatic curry leaves, and a hint of turmeric. Garnished with roasted peanuts and fragrant mustard seeds, it's a refreshing and zesty dish perfect for any occasion."
+        },
+        {
+          "id": 5,
+          "image": "./rice5.png",
+          "title": "The Culinary Affair",
+          "book":"The Paris Affair",
+          "text" : "Comforting and wholesome meal that pairs steamed basmati rice with a flavorful lentil curry.The dal cooked with aromatic spices like cumin, turmeric, and coriander creating a nourishing and delicious dish that’s perfect for everyday meals."
+        },
+        {
+          "id": 6,
+          "image": "./rice6.png",
+          "title": "Ramsis Special",
+          "book":"",
+          "text" : " Cooked in the dum style, where ingredients are slow-cooked together in a sealed pot allowing the flavors to meld beautifully garnished with caramelized onions, fresh herbs, and a touch of yogurt."
+        },
+        {
+          "id": 7,
+          "image": "./rice7.png",
+          "title": "Greedy Matka",
+          "book":"",
+          "text" : "long-grain basmati rice layered with marinated meat or vegetables, and a blend of spices like saffron, cardamom, and cloves. Slow-cooked to perfection"
+        },
+        {
+          "id": 8,
+          "image": "./rice8.png",
+          "title": "Notorius Thieves",
+          "book":"Notorius Thieves",
+          "text" : "A blend of rice and lentils, cooked together with spices such as cumin, turmeric, and ginger. This one-pot meal is soft, savory, and often served with a dollop of yogurt or pickle"
+        }
+      ],
+      "rt":[
+        {
+          "id": 1,
+          "image": "./roti1.png",
+          "title": "Plain Deal",
+          "books":"The Plain Dealer",
+          "text" : "Cooked on a hot griddle. Its thin, soft texture and mild flavor make it a versatile and staple accompaniment to a variety of dishes, ideal for everyday meals"
+        },
+        {
+          "id": 2,
+          "image": "./roti2.png",
+          "title": "The Naan Saga",
+          "books":"The Saga of the Volsungs",
+          "text" : "Brushed with butter or garlic. Its slightly crisp exterior and tender, airy interior make it a perfect accompaniment to rich curries and gravies"
+        },
+        {
+          "id": 3,
+          "image": "./roti3.png",
+          "title": "The Crusty Conundrum",
+          "books":"The Conundrum",
+          "text" : "A spiced mashed potato filling. Cooked to a crispy, golden perfection, this hearty paratha is typically served with yogurt, pickles, and a dollop of butter for a satisfying and flavorful meal"
+        },
+        {
+          "id": 4,
+          "image": "./roti4.png",
+          "title": "The Cheese Chase",
+          "books":"The Chase",
+          "text" : "Filled with melted cheese and seasoned with aromatic spices. The crispy, golden exterior contrasts with the gooey, cheesy interior, making it a delightful and indulgent treat"
+        }
+      ],
+      "start":[
+        {
+          "id": 1,
+          "image": "./starter1.png",
+          "title": "The Miniature Delight",
+          "book": "",
+          "text":"corn pieces tossed with tangy tamarind chutney, spicy green chutney, and a mix of chaat spices. Garnished with fresh coriander, onions, and sev"
+        },
+        {
+          "id": 2,
+          "image": "./starter2.png",
+          "title": "The Ballad of Dahi",
+          "book": "The Ballad of Reading Gao",
+          "text" : "Crisp puris filled with a mixture of tangy tamarind chutney,spicy green chutney,and creamy yogurt. Topped with sev,explosion of flavors and textures in every bite."
+        },
+        {
+          "id": 3,
+          "image": "./starter3.png",
+          "title": "Rolling Stones",
+          "book":"The Rolling Stones",
+          "text" : "Golden wrapper encases a savory mix of tender vegetables and aromatic spices, all paired with a zesty dipping sauce for an irresistible taste sensation"
+        },
+        {
+          "id": 4,
+          "image": "./starter4.png",
+          "title": "Little Pasta",
+          "book":"Little Women",
+          "text" : "Crafted from premium wheat and cooked to perfection, served with your choice of rich, flavorful sauces and fresh ingredients. Indulge in a delightful Italian culinary experience."
+        },
+        {
+          "id": 5,
+          "image": "./starter5.png",
+          "title": "The Potato Famine",
+          "book": "The Potato Eaters",
+          "text" : "crispy potato patties that are Crispy on the outside and soft on the inside. Served with tangy chutneys and a sprinkle of fresh coriander, it's a delicious blend of textures and flavors"
+        },
+        {
+          "id": 6,
+          "image": "./starter7.png",
+          "title": "Taste-Dynamite",
+          "book": "The Dynamite",
+          "text" : "Crispy edible baskets filled with a vibrant mix of spiced potatoes, chickpeas, yogurt, tangy chutneys, and crunchy sev. Perfectly balanced flavors in every bite"
+        },
+        {
+          "id": 7,
+          "image": "./starter8.png",
+          "title": "The Fryer’s Tale",
+          "book": "The Canterbury Tales",
+          "text" : "Golden and crispy, our French Fries are hand-cut and seasoned to perfection, offering a satisfying crunch and a burst of flavor in every bite. A classic favorite, ideal as a side or a snack"
+        },
+        {
+          "id": 8,
+          "image": "./starter6.png",
+          "title": "The Oriental Adventure",
+          "book": "The Orientalist",
+          "text" : "Vegetable meat balls, drenched in a savory, tangy sauce with hints of garlic, ginger, and soy. This flavorful dish combines a crunchy exterior with a rich, spiced coating for a delightful taste experience"
+        }
+      ],
+      "sjs":[
+        {
+          "id": 1,
+          "image": "./dinner1.png",
+          "title": "Spicy Harvest",
+          "text" : "cooked in a spiced tomato-based gravy. Infused with a blend of aromatic spices such as cumin, coriander, and garam masala, perfect when paired with rice or naan"
+        },
+        {
+          "id": 2,
+          "image": "./sabjis2.png",
+          "title": "The Bean's Journey",
+          "text" : " simmered in a spiced tomato and onion gravy. The dish is enriched with a blend of aromatic spices, creating a hearty and flavorful meal that pairs perfectly with rice or roti"
+        },
+        {
+          "id": 3,
+          "image": "./sabjis3.png",
+          "title": "The Vegetable Tapestry",
+          "text" : "Seasonal vegetables, simmered in a spiced tomato and onion gravy. Enhanced with a blend of aromatic spices and fresh herbs"
+        },
+        {
+          "id": 4,
+          "image": "./sabjis4.png",
+          "title": "The Potato Diaries",
+          "text" : "Baby potatoes cooked in a rich and spicy tomato-based gravy simmered slowly to allow the spices and herbs to infuse deeply into the potatoes, creating a deliciously aromatic and hearty meal"
+        }
+      ]
+    }
+  ]
+}
