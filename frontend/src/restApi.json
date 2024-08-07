@@ -70,37 +70,37 @@
       "team": [
         {
           "id": 1,
-          "image": "./team_member_2.png",
+          "image": "./rajveer.png",
           "name": "Rajvirsinh Rajput",
           "designation": "Founder & Head Chef"
         },
         {
           "id": 2,
-          "image": "./team_member_2.png",
+          "image": "./mohammad.png",
           "name": "Mohammad Rupani",
           "designation": "Senior Chef"
         },
         {
           "id": 3,
-          "image": "./team_member_2.png",
+          "image": "./tosik.png",
           "name": "Tosik Parmar",
           "designation": "Senior Chef"
         },
         {
           "id": 4,
-          "image": "./team_member_2.png",
-          "name": "Garv Kavadia",
+          "image": "./garv.png",
+          "name": "Garv Kavdia",
           "designation": "Senior Chef"
         },
         {
           "id": 5,
-          "image": "./team_member_2.png",
+          "image": "./ayush.png",
           "name": "Ayush Sarraf",
           "designation": "Senior Chef"
         },
         {
           "id": 6,
-          "image": "./team_member_2.png",
+          "image": "./dhruv.png",
           "name": "Dhruv Patel",
           "designation": "Senior Chef"
         }

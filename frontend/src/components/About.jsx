@@ -16,7 +16,7 @@ const About = () => {
             Our mission has been to delight the taste buds of locals. With our expertise and passion, we have perfected the art of serving fresh, hearty, and unforgettable dishes with the combination of literary.
             </p>
             <Link to={"/Content"}>
-              Know More{" "}
+              Our Menu{" "}
               <span>
                 <HiOutlineArrowRight />
               </span>
