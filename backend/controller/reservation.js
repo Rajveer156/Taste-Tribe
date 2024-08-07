@@ -1,7 +1,7 @@
 import ErrorHandler from "../error/error.js";
 import { Reservation } from "../models/reservationSchema.js";
 
-const MAX_RESERVATIONS = 3;
+const MAX_RESERVATIONS = 6;
 
 export const send_reservation = async (req, res, next) => {
   const { firstName, lastName, email, date, time, phone } = req.body;
